@@ -48,6 +48,6 @@ Headings: **Cinzel**. Tagline: **Cinzel Decorative**. Body: **Montserrat** (web)
 
 ## Before going live
 
-Fill in the placeholders: contact email and phone in `index.html` (search for `EDIT CONTACT DETAILS`), and the address, PACRA registration number, TPIN and directors in the Word templates.
+Contact: growth@libala.gold | +260 77 490 4288. Still to fill in the Word templates: physical address, PACRA registration number, TPIN and directors.
 
 © 2026 Libala Gold Agribusiness Limited. All rights reserved.
